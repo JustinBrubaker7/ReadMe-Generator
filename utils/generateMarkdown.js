@@ -14,12 +14,30 @@ function renderLicenseSection(license) {}
 function generateMarkdown(answers) {
   return `
   # ${answers.title}
-  ${answers.description}
-  ${answers.description_solve}
+  ------------------------------------------------------
+  ## Description
+  ${answers.description}, ${answers.description_solve}
+  ------------------------------------------------------
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Collaborators](#Collaborators)
+- [License](#license)
+------------------------------------------------------
+
+  ## Instalation
   ${answers.install}
+  ------------------------------------------------------
+  ## Usage
   ${answers.usage}
+  ------------------------------------------------------
+  ## Collaborators
   ${answers.credit}
+  ------------------------------------------------------
+  ## License
   ${answers.license}
+  ------------------------------------------------------
+  ## Questions and Concerns
   ${answers.contact}
   
 `;
