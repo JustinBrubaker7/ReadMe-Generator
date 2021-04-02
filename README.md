@@ -1,8 +1,9 @@
 
-  # Good ReamMe Generator
-  ------------------------------------------------------
+  ![License](https://img.shields.io/badge/License-MIT-blue)
+  # Good ReadMe Generator
+
   ## Description
-  THis project helps you generate a good read me. When you build a project the last thing you think of is the readMe. Now it is 100 times easier., The good readme Generator solves the problem of having bad readme's
+  #### This app allows you to quickly create readme.md files for your github repositories., This project solves the problem of it taking so long to create a readme file. It the last thing on your mind when your are creating a new project. BUT no more!
   ------------------------------------------------------
 
 - [Installation](#installation)
@@ -11,18 +12,25 @@
 - [License](#license)
 ------------------------------------------------------
 
-  ## Instalation
-  Clone repo to you device. Run npm i inquirer
+  ## Installation
+  #### download the project and run "npm install inquirer"
   ------------------------------------------------------
   ## Usage
-  Open VS code or any text editor and run node index.js in your terminal
+  #### You open the terminal and type node index.js
+  ![]()
   ------------------------------------------------------
   ## Collaborators
-  
+  #### <a href='https://github.com/justinbrubaker7'>justinbrubaker7's Profile</a>
   ------------------------------------------------------
   ## License
-  MIT
+  ![License](https://img.shields.io/badge/License-MIT-blue)
+  #### This project has a(n) MIT. 
+
+ 
   ------------------------------------------------------
+  ## How to Contribute
+  #### If you would like to contribute to this project please visit [Contributor Covenant](https://www.contributor-covenant.org/) and adhere to these guidlines. Thank you and happy coding!
+
   ## Questions and Concerns
-  Justinbrubaker7@gmail.com
+  #### For questions about this repository please contact me via justinbrubaker7@gmail.com
   

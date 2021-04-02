@@ -25,13 +25,15 @@ inquirer
       name: 'install',
       message: `What are the steps to install your project, if any?`,
     },
-
-    //TODO: add image file path for screenshots
-
     {
       type: 'input',
       name: 'usage',
       message: 'Provide instructions and examples of intended use.',
+    },
+    {
+      type: 'input',
+      name: 'usage_photo',
+      message: 'Provide the relative file path for a photo of you project. (optional)',
     },
     {
       type: 'input',
@@ -44,8 +46,9 @@ inquirer
       name: 'license',
       choices: [
           {name: "MIT"},
-          {name: "LIT"},
-          {name: "BET"},
+          {name: "ISC"},
+          {name: "GNU GENERAL PUBLIC LICENSE"},
+          {name: "Other"},
       ]},
       {
           type: 'input',
@@ -57,6 +60,6 @@ inquirer
     const readMeContent = generateMarkdown(answers);
 
     fs.writeFile('README.md', readMeContent, (err) =>
-      err ? console.log(err) : console.log('Successfully created index.html!')
+      err ? console.log(err) : console.log('Successfully created README.md!')
     );
   });
