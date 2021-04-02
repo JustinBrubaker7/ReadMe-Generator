@@ -2,7 +2,7 @@
   # Good ReadMe Generator
 
   ## Description
-  #### This app allows you to quickly create readme.md files for your github repositories., This project solves the problem of it taking so long to create a readme file. It the last thing on your mind when your are creating a new project. BUT no more!
+  #### This app allows you to quickly create readme.md files for your github repositories. This project solves the problem of how time consuming it is to create redme.md files. That's the last thing on your mind when your are creating a new project. BUT no more!
   ------------------------------------------------------
 
 - [Installation](#installation)
