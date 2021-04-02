@@ -14,7 +14,7 @@ function generateMarkdown(answers) {
 - [License](#license)
 ------------------------------------------------------
 
-  ## Instalation
+  ## Installation
   #### ${answers.install}
   ------------------------------------------------------
   ## Usage
@@ -26,7 +26,7 @@ function generateMarkdown(answers) {
   ------------------------------------------------------
   ## License
   ![License](https://img.shields.io/badge/License-${answers.license}-blue)
-  #### This project has a(n) ${answers.license}. 
+  #### This project has a(n) ${answers.license} license. 
 
  
   ------------------------------------------------------
