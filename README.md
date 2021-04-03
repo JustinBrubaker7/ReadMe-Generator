@@ -1,8 +1,9 @@
+
   ![License](https://img.shields.io/badge/License-MIT-blue)
-  # Good ReadMe Generator
+  # Great README Generator
 
   ## Description
-  #### This app allows you to quickly create readme.md files for your github repositories. This project solves the problem of how time consuming it is to create redme.md files. That's the last thing on your mind when your are creating a new project. BUT no more!
+  #### Have you ever finished a stellar new app, uploaded it to github and realized you have no readme. Well the good readme generater helps you quickly and easily write a professional readme. We used node.js to run this. It is a command line interface., THis solves the problem of having half done, unprofessional readme files.
   ------------------------------------------------------
 
 - [Installation](#installation)
@@ -11,11 +12,11 @@
 - [License](#license)
 ------------------------------------------------------
 
-  ## Instalation
-  #### download the project and run "npm install inquirer"
+  ## Installation
+  #### Your first need to clone this repsoitry to your local machine. Run "npm install inquirer". and you should be good to go.
   ------------------------------------------------------
   ## Usage
-  #### You open the terminal and type node index.js
+  #### You need to open this application in your terminal. VS code is the easiest.
   ![Usage Photo]()
   ------------------------------------------------------
   ## Collaborators
@@ -23,7 +24,7 @@
   ------------------------------------------------------
   ## License
   ![License](https://img.shields.io/badge/License-MIT-blue)
-  #### This project has a(n) MIT. 
+  #### This project has a(n) MIT license. 
 
  
   ------------------------------------------------------
