@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
   ![License](https://img.shields.io/badge/License-MIT-blue)
   # Great README Generator
@@ -35,6 +34,3 @@
   ## Questions and Concerns
   #### For questions about this repository please contact me via justinbrubaker7@gmail.com
   
-=======
-
->>>>>>> eb2b5b5064e0893968b1402777a6a0af7084c843
