@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
   ![License](https://img.shields.io/badge/License-MIT-blue)
   # Great README Generator
